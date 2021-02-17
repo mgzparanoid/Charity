@@ -1,4 +1,4 @@
-<b>CHARITY APPLICATION</b>
+<h1><b>CHARITY APPLICATION</b></h1>
 
 The main goal for the application is to donate unnecessary goods for charities. You can do CRUD operations on charities, it is possible to send sample orders and schedule pickup dates and so on. The access to certain subpages and utilities depends on the role, you can be either: USER or ADMIN. The latter having access to everything.
 
