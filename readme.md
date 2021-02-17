@@ -1,12 +1,13 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+The main goal for the application is to donate unnecessary goods for charities. You can do CRUD operations on charities, it is possible to send sample orders and schedule pickup dates and so on.
+
+1. Open project in your IDE
+2. Remember to configure  application.properties to establish connection
+3. Use: "create database `charity`" in console
 
 
-Przed przystąpieniem do pracy  przeczytaj poniższe wskazówki.
-## Jak zacząć?
-
-1. Zaimportuj projekt jako projekt `Maven`, wg poniższych wskazówek:
-
-	* W `IntelliJ` wybieramy: `File –> New –> Project from Existing Sources...`
-	* Wskazujemy lokalizację katalogu ze sklonowanym projektem i zatwierdzamy.
-	* Następnie w nowym oknie wybieramy: `Import project from external model` i wskazujemy `Maven`
-	* Wybieramy kolejno opcje: `Next –> Next –> Next –> Finish`
+Technologies used:
+Java
+Spring Boot
+Spring Security
+MySQL database
+Hibernate
