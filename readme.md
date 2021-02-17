@@ -6,8 +6,8 @@ The main goal for the application is to donate unnecessary goods for charities. 
 
 
 Technologies used:
-Java
-Spring Boot
-Spring Security
-MySQL database
-Hibernate
+- Java
+- Spring Boot
+- Spring Security
+- MySQL database
+- Hibernate
